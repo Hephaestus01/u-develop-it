@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "node server.js"
+    "start": "npx nodemon server.js"
   },
   "keywords": [],
   "author": "",
